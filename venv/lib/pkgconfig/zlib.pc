@@ -1,0 +1,13 @@
+prefix=/Users/rohitmacherla/Documents/Projects/object-detection/venv
+exec_prefix=/Users/rohitmacherla/Documents/Projects/object-detection/venv
+libdir=/Users/rohitmacherla/Documents/Projects/object-detection/venv/lib
+sharedlibdir=/Users/rohitmacherla/Documents/Projects/object-detection/venv/lib
+includedir=/Users/rohitmacherla/Documents/Projects/object-detection/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
