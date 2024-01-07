@@ -1,6 +1,6 @@
 # Real-Time Object Detection System
 
-This Project aims to utilize the object detection technique to identify the number of objects passing through a pre-determined path real-time using the webcam as well as pre-recorded video. It employs a pre-trained YOLO model for object detection.
+This Project aims to utilize the object detection technique to identify the number of objects passing through a pre-determined path in real-time using the webcam as well as pre-recorded video. It employs a pre-trained YOLO model for object detection.
 
 # Project 1 - Car Counter
 Demo Video - [https://drive.google.com/file/d/1dZgnv1QmD3KzyZmRH3UUiTQPMIGCWf_n/view?usp=sharing
