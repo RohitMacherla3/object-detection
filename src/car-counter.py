@@ -6,11 +6,11 @@ import math
 from sort import *
 
 model = YOLO('src/components/yolo-weights/yolov8n.pt')
-capture = cv2.VideoCapture('../Videos/cars.mp4') # videos
+capture = cv2.VideoCapture('src/components/car-counter/cars.mp4') # videos
 
-classNames = open('coco.names').read().strip().split('\n')
+classNames = open('src/components/coco.names').read().strip().split('\n')
 
-mask = cv2.imread('mask.png')
+mask = cv2.imread('src/components/car-counter/mask.png')
 
 #Tracking
 tracker = Sort(max_age=20, min_hits=3, iou_threshold=0.3)
@@ -25,7 +25,7 @@ while True:
     imgRegion = cv2.bitwise_and(img, mask)
     results = model(imgRegion, stream=True)
     
-    imgGraphics = cv2.imread('graphics.png', cv2.IMREAD_UNCHANGED)
+    imgGraphics = cv2.imread('src/components/car-counter/graphics.png', cv2.IMREAD_UNCHANGED)
     img = cvzone.overlayPNG(img, imgGraphics, (0,0))
     
     detections = np.empty((0,5))
