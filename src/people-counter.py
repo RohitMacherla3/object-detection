@@ -54,7 +54,6 @@ while True:
     for res in resultstracker:
         x1, y1, x2, y2, id = res
         x1, y1, x2, y2, id = int(x1), int(y1), int(x2), int(y2), int(id)
-        print(x1, y1, x2, y2, id)
         w, h = x2-x1, y2-y1
         cvzone.cornerRect(img, (x1, y1, w, h), l=10)
         cvzone.putTextRect(img, f'{id}', (max(0,x1), max(35, y1)), offset=5, scale=1, thickness=1)
