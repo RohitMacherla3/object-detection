@@ -5,7 +5,8 @@ This Project aims to utilize the object detection tecnique to identify number of
 Demo Video - https://drive.google.com/file/d/1dZgnv1QmD3KzyZmRH3UUiTQPMIGCWf_n/view?usp=sharing
 
 Snapshot:
-![image](https://github.com/RohitMacherla3/real-time-object-detection-system/assets/89356811/e4242e1d-5ab0-485b-b6fe-f6c265e21d04)
+![image](https://github.com/RohitMacherla3/real-time-object-detection-system/assets/89356811/03a058db-fef2-42d8-b1c2-a420ffc61053)
+
 
 
 
