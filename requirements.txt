@@ -63,6 +63,6 @@ tornado
 tqdm
 typing_extensions
 tzdata
-ultralytics
+ultralytics==8.1.47
 urllib3
 -e .
