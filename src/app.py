@@ -1,5 +1,4 @@
 import streamlit as st
-import numpy as np
 from ultralytics import YOLO
 import tempfile
 from sort import *
