@@ -1,3 +1,5 @@
+pandas
+numpy
 altair
 antlr4-python3-runtime
 attrs
@@ -29,11 +31,9 @@ matplotlib
 mdurl
 mpmath
 networkx
-numpy
 omegaconf
 opencv-python
 packaging
-pandas
 Pillow
 protobuf
 psutil
