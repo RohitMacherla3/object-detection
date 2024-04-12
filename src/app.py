@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-from ultralytics.models import YOLO
+from ultralytics import YOLO
 import tempfile
 from sort import *
 from webcam import web_cam_pred
