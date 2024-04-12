@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-from src.car_counter import car_counter
 from ultralytics import YOLO
 import tempfile
 from sort import *
