@@ -6,7 +6,8 @@ This Project aims to utilize the object detection technique to identify the numb
 Deployed to Streamlit - https://real-time-object-detectionn.streamlit.app/
 
 Snapshot:
-![image](https://github.com/RohitMacherla3/real-time-object-detection-system/assets/89356811/03a058db-fef2-42d8-b1c2-a420ffc61053)
+<img width="638" alt="work-4" src="https://github.com/RohitMacherla3/real-time-object-detection-system/assets/89356811/61574448-07f3-4b18-9df0-5950351dc743">
+
 
 Input Video - [https://drive.google.com/file/d/1DnZM23qo9WLbJRREpUZXVX1vhzw8NGvA/view?usp=sharing](https://drive.google.com/file/d/1DnZM23qo9WLbJRREpUZXVX1vhzw8NGvA/view?usp=sharing)
 
