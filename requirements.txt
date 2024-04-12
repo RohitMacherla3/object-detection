@@ -28,7 +28,7 @@ mdurl
 mpmath
 networkx
 numpy
-opencv-python-headless
+opencv-python-headless==1.26.4
 packaging
 pandas
 pillow
