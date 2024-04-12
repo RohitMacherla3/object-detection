@@ -69,4 +69,4 @@ typing_extensions
 tzdata
 ultralytics
 urllib3
--e git+https://github.com/RohitMacherla3/real-time-object-detection-system.git@3fecc810a8d590babe06c2d15acdc7a1d1b77240#egg=object_detection
+-e
