@@ -3,7 +3,7 @@
 This Project aims to utilize the object detection technique to identify the number of objects passing through a pre-determined path in real-time using the webcam as well as pre-recorded video. It employs a pre-trained YOLO model for object detection.
 
 # Project 1 - Car Counter
-Deployed to Streamlit - https://realtime-object-detetction.streamlit.app/
+Deployed to Streamlit - https://real-time-object-detection-system.streamlit.app/
 
 Snapshot:
 
