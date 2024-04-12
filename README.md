@@ -9,9 +9,6 @@ Snapshot:
 
 <img width="638" alt="work-4" src="https://github.com/RohitMacherla3/real-time-object-detection-system/assets/89356811/61574448-07f3-4b18-9df0-5950351dc743">
 
-
-Input Video - [https://drive.google.com/file/d/1DnZM23qo9WLbJRREpUZXVX1vhzw8NGvA/view?usp=sharing](https://drive.google.com/file/d/1DnZM23qo9WLbJRREpUZXVX1vhzw8NGvA/view?usp=sharing)
-
 Note - Place the input video in the folder(src/components/car-counter/) to avoid runtime errors
 
 # Project 2 - People Counter
